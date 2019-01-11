@@ -1,0 +1,7 @@
+0 - manage everywhere with 'sudo'
+
+1 - npm init - to manage
+
+2 - npm install --save-dev webpack webpack-dev-server - to wrap flow and test locally (build tool)
+
+3 - npm install --save-dev webpack@3 - because rest versions have different syntax
