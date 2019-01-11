@@ -1,7 +1,15 @@
 0 - manage everywhere with 'sudo'
 
+//Webpack
 1 - npm init - to manage
 
 2 - npm install --save-dev webpack webpack-dev-server - to wrap flow and test locally (build tool)
 
 3 - npm install --save-dev webpack@3 - because rest versions have different syntax
+
+//Structure
+1. create src folder with html-file with '<div id="root"></div>' in body
+
+2. then add folders like assets, components, containers etc.
+
+3. create index.js and index.css, App.js files and add some important code to its
