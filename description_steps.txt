@@ -26,3 +26,5 @@
 4/ npm install --save-dev babel-loader babel-core babel-preset-react babel-preset-env - for interpret JS-code
 
 5/ create .babelrc for babel-config
+
+6/ npm i --save-dev css-loader style-loader - install css-support + npm install --save-dev postcss-loader autoprefixer
