@@ -13,3 +13,5 @@
 2. then add folders like assets, components, containers etc.
 
 3. create index.js and index.css, App.js files and add some important code to its
+
+4. npm i react react-dom react-router-dom - install all production dependencies
