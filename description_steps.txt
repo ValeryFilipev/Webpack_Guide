@@ -15,3 +15,10 @@
 3. create index.js and index.css, App.js files and add some important code to its
 
 4. npm i react react-dom react-router-dom - install all production dependencies
+
+//Setting up the webpack config
+1/ in scripts-section write "start": "webpack-dev-server"
+
+2/ to configure the previous step gotta create 'webpack.config.js' file in the root
+
+3/ create a flow in the previous movements step by step
