@@ -32,3 +32,5 @@
 7/ npm i --save-dev babel-plugin-syntax-dynamic-import - lazy-loader(for dynamic imports) + npm i --save-dev babel-preset-stage-2
 
 8/ npm i --save-dev html-webpack-plugin
+
+9/ npm run build - for production workflow + add production config to it + npm i --save-dev rimraf
