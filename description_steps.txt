@@ -1,4 +1,4 @@
-0 - manage everywhere with 'sudo'
+0 - manage everywhere with 'sudo'(use it as little as possible)
 
 //Webpack
 1 - npm init - to manage
@@ -30,3 +30,5 @@
 6/ npm i --save-dev css-loader style-loader - install css-support + npm install --save-dev postcss-loader autoprefixer + npm i --save-dev url-loader +
 
 7/ npm i --save-dev babel-plugin-syntax-dynamic-import - lazy-loader(for dynamic imports) + npm i --save-dev babel-preset-stage-2
+
+8/ npm i --save-dev html-webpack-plugin
