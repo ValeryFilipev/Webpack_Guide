@@ -34,3 +34,5 @@
 8/ npm i --save-dev html-webpack-plugin
 
 9/ npm run build - for production workflow + add production config to it + npm i --save-dev rimraf
+
+10/ npm install --save babel-polyfill and finish set-up
