@@ -27,4 +27,6 @@
 
 5/ create .babelrc for babel-config
 
-6/ npm i --save-dev css-loader style-loader - install css-support + npm install --save-dev postcss-loader autoprefixer + npm i --save-dev url-loader + npm i --save-dev file-loader
+6/ npm i --save-dev css-loader style-loader - install css-support + npm install --save-dev postcss-loader autoprefixer + npm i --save-dev url-loader +
+
+7/ npm i --save-dev babel-plugin-syntax-dynamic-import - lazy-loader(for dynamic imports) + npm i --save-dev babel-preset-stage-2
